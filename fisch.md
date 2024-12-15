@@ -1,40 +1,27 @@
-# web-service-template
+# Dokumentation des Projekts
 
-## funktionsbeschreibung
-**zweck**:  
-[beschreibung des zwecks dieses web services, z.b. authentifizierung, bezahlung, etc.]
+## Gliederung der Dokumentation
+1. [Einführung](#einführung)
+2. [Anforderungen und User Stories](#anforderungen-und-user-stories)
+3. [Architektur des Systems](#architektur-des-systems)
+4. [Schnittstellen und APIs](#schnittstellen-und-apis)
+5. [Fehlerbehandlung](#fehlerbehandlung)
+6. [Weitere Informationen](#weitere-informationen)
 
-**hauptfunktionen**:  
-- [funktion 1]
-- [funktion 2]
-- [funktion 3]
+## Einführung
+Hier ist die Einführung zu unserem Projekt.
 
-## schnittstellendefinition
+## Anforderungen und User Stories
+Beschreibung der Anforderungen und User Stories des Systems.
 
-### api endpoints
+## Architektur des Systems
+Beschreibung der Architektur des Systems.
 
-| no. | http-methode | uri                            | http-statuscode(s)                  | consumes   | produces |
-|-----|--------------|--------------------------------|-------------------------------------|------------|----------|
-| 1   | [get/post]   | `/api/v1/[endpoint]`           | [statuscodes]                       | [datenformat] | [datenformat] |
-| 2   | [get/post]   | `/api/v1/[endpoint2]`          | [statuscodes]                       | [datenformat] | [datenformat] |
+## Schnittstellen und APIs
+Details zu den Schnittstellen und APIs.
 
-## user stories
+## Fehlerbehandlung
+Beschreibung der Fehlerbehandlung.
 
-1. **user story 1**:  
-   als [rolle] möchte ich [funktion], um [ziel].  
-   **akzeptanzkriterien**:
-   - [kriterium 1]
-   - [kriterium 2]
-
-2. **user story 2**:  
-   als [rolle] möchte ich [funktion], um [ziel].  
-   **akzeptanzkriterien**:
-   - [kriterium 1]
-   - [kriterium 2]
-
-## fehlerbehandlung
-- **fehler 400**: [beschreibung des fehlers]
-- **fehler 500**: [beschreibung des fehlers]
-
-## weitere informationen
-[zusätzliche informationen oder hinweise, die für diesen web service wichtig sind.]
+## Weitere Informationen
+Weitere wichtige Informationen.
